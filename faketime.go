@@ -3,7 +3,7 @@ package faketime
 import (
 	"time"
 
-	"bou.ke/monkey"
+	"github.com/procodr/monkey"
 )
 
 type faketime struct {
